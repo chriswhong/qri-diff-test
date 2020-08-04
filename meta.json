@@ -1,12 +1,15 @@
 {
- "description": "( 1 ) United Nations Population Division. World Population Prospects: 2017 Revision. ( 2 ) Census reports and other statistical publications from national\nstatistical offices, ( 3 ) Eurostat: Demographic Statistics, ( 4 ) United Nations Statistical Division. Population and Vital Statistics Reprot ( various years ),\n( 5 ) U.S. Census Bureau: International Database, and ( 6 ) Secretariat of the Pacific Community: Statistics and Demography Programme.\n",
+ "description": "( 1 ) United Nations Population Division. World Population Prospects: 2017 Revision. ( 2 ) Census reports and other statistical publications from national\nstatistical offices, ( 3 ) Eurostat: Demographic Statistics, ( 4 ) United Nations Statistical Division. Population and Vital Statistics Reprot ( various years ),\n( 5 ) U.S. Census Bureau: International Database, and ( 6 ) Secretariat of the Pacific Community: Statistics and Demography Programme.\n Updated with some regular frequency",
  "downloadURL": "http://api.worldbank.org/v2/en/indicator/SP.POP.TOTL?downloadformat=csv",
  "homeURL": "https://data.worldbank.org/indicator/sp.pop.totl",
  "keywords": [
   "united nations",
   "population",
   "world bank",
-  "census"
+  "census",
+  "some",
+  "other",
+  "keywords"
  ],
  "license": {
   "type": "CC-BY-4.0",
@@ -16,5 +19,5 @@
  "theme": [
   "population"
  ],
- "title": "World Bank Population"
+ "title": "World Bank Population by Brendan O'Brien"
 }
