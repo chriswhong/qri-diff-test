@@ -1,0 +1,276 @@
+{
+ "format": "csv",
+ "formatConfig": {
+  "headerRow": true,
+  "lazyQuotes": true
+ },
+ "qri": "st:0",
+ "schema": {
+  "items": {
+   "items": [
+    {
+     "title": "country_name",
+     "type": "string"
+    },
+    {
+     "title": "country_code",
+     "type": "string"
+    },
+    {
+     "title": "indicator_name",
+     "type": "string"
+    },
+    {
+     "title": "indicator_code",
+     "type": "string"
+    },
+    {
+     "title": "year_1960",
+     "type": "integer"
+    },
+    {
+     "title": "year_1961",
+     "type": "integer"
+    },
+    {
+     "title": "year_1962",
+     "type": "integer"
+    },
+    {
+     "title": "year_1963",
+     "type": "integer"
+    },
+    {
+     "title": "year_1964",
+     "type": "integer"
+    },
+    {
+     "title": "year_1965",
+     "type": "integer"
+    },
+    {
+     "title": "year_1966",
+     "type": "integer"
+    },
+    {
+     "title": "year_1967",
+     "type": "integer"
+    },
+    {
+     "title": "year_1968",
+     "type": "integer"
+    },
+    {
+     "title": "year_1969",
+     "type": "integer"
+    },
+    {
+     "title": "year_1970",
+     "type": "integer"
+    },
+    {
+     "title": "year_1971",
+     "type": "integer"
+    },
+    {
+     "title": "year_1972",
+     "type": "integer"
+    },
+    {
+     "title": "year_1973",
+     "type": "integer"
+    },
+    {
+     "title": "year_1974",
+     "type": "integer"
+    },
+    {
+     "title": "year_1975",
+     "type": "integer"
+    },
+    {
+     "title": "year_1976",
+     "type": "integer"
+    },
+    {
+     "title": "year_1977",
+     "type": "integer"
+    },
+    {
+     "title": "year_1978",
+     "type": "integer"
+    },
+    {
+     "title": "year_1979",
+     "type": "integer"
+    },
+    {
+     "title": "year_1980",
+     "type": "integer"
+    },
+    {
+     "title": "year_1981",
+     "type": "integer"
+    },
+    {
+     "title": "year_1982",
+     "type": "integer"
+    },
+    {
+     "title": "year_1983",
+     "type": "integer"
+    },
+    {
+     "title": "year_1984",
+     "type": "integer"
+    },
+    {
+     "title": "year_1985",
+     "type": "integer"
+    },
+    {
+     "title": "year_1986",
+     "type": "integer"
+    },
+    {
+     "title": "year_1987",
+     "type": "integer"
+    },
+    {
+     "title": "year_1988",
+     "type": "integer"
+    },
+    {
+     "title": "year_1989",
+     "type": "integer"
+    },
+    {
+     "title": "year_1990",
+     "type": "integer"
+    },
+    {
+     "title": "year_1991",
+     "type": "integer"
+    },
+    {
+     "title": "year_1992",
+     "type": "integer"
+    },
+    {
+     "title": "year_1993",
+     "type": "integer"
+    },
+    {
+     "title": "year_1994",
+     "type": "integer"
+    },
+    {
+     "title": "year_1995",
+     "type": "integer"
+    },
+    {
+     "title": "year_1996",
+     "type": "integer"
+    },
+    {
+     "title": "year_1997",
+     "type": "integer"
+    },
+    {
+     "title": "year_1998",
+     "type": "integer"
+    },
+    {
+     "title": "year_1999",
+     "type": "integer"
+    },
+    {
+     "title": "year_2000",
+     "type": "integer"
+    },
+    {
+     "title": "year_2001",
+     "type": "integer"
+    },
+    {
+     "title": "year_2002",
+     "type": "integer"
+    },
+    {
+     "title": "year_2003",
+     "type": "integer"
+    },
+    {
+     "title": "year_2004",
+     "type": "integer"
+    },
+    {
+     "title": "year_2005",
+     "type": "integer"
+    },
+    {
+     "title": "year_2006",
+     "type": "integer"
+    },
+    {
+     "title": "year_2007",
+     "type": "integer"
+    },
+    {
+     "title": "year_2008",
+     "type": "integer"
+    },
+    {
+     "title": "year_2009",
+     "type": "integer"
+    },
+    {
+     "title": "year_2010",
+     "type": "integer"
+    },
+    {
+     "title": "year_2011",
+     "type": "integer"
+    },
+    {
+     "title": "year_2012",
+     "type": "integer"
+    },
+    {
+     "title": "year_2013",
+     "type": "integer"
+    },
+    {
+     "title": "year_2014",
+     "type": "integer"
+    },
+    {
+     "title": "year_2015",
+     "type": "integer"
+    },
+    {
+     "title": "year_2016",
+     "type": "integer"
+    },
+    {
+     "title": "year_2017",
+     "type": "integer"
+    },
+    {
+     "title": "year_2018",
+     "type": "integer"
+    },
+    {
+     "title": "year_2019",
+     "type": "integer"
+    },
+    {
+     "title": "year_",
+     "type": "integer"
+    }
+   ],
+   "type": "array"
+  },
+  "type": "array"
+ }
+}
